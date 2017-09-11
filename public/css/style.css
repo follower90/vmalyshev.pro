@@ -1,0 +1,38 @@
+.tags {
+  text-align: center;
+}
+.tags span {
+  margin: 4px;
+  font-weight: 400;
+  font-size: 0.8em;
+  color: #9A9A9A;
+  padding: 7px 10px;
+}
+
+.tags span:first-child {
+  margin-left: 0;
+}
+
+.tags-title {
+  margin-top: 1.3em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.page-header-image {
+  background-image: url('../img/bg3.jpg');
+}
+
+.work-period {
+  font-weight: 800;
+  margin-bottom: 1em;
+}
+
+.export-cv {
+  margin-top: 70px;
+}
+
+.summary p {
+  margin: 0;
+  font-size: 1.2em;
+}
