@@ -42,19 +42,27 @@ var data =
   "skills": [
     {
       "category": "Programming",
-      "list": [ "OOP", "MVC", "DDD", "SOLID", "HTTP", "TDD", "BDD", "DESIGN PATTERNS", "SOFTWARE DESIGN", "REGEXP", "AJAX", "FUNCTIONAL PROGRAMMING", "XML", "REST" ],
+      "list": [ "OOP", "MVC", "DDD", "SOLID", "HTTP", "TDD", "DESIGN PATTERNS", "SOFTWARE DESIGN", "REGEXP", "FUNCTIONAL PROGRAMMING" ],
     },
     {
-      "category": "Languages and frameworks",
-      "list": [ "JAVASCRIPT", "PHP", "REACT", "MARIONETTE", "BACKBONE", "ANGULAR", "RUBY ON RAILS", "NODE.JS", "PYTHON", "REDUX" ],
+      "category": "Languages",
+      "list": [ "JAVASCRIPT", "PHP", "RUBY", "TYPESCRIPT", "PYTHON", "SCALA" ],
+    },
+    {
+      "category": "Back-End",
+      "list": [ "RUBY ON RAILS", "NODE.JS", "EXPRESS", "COMPOSER", "MYSQL", "APACHE", "NGINX" ],
+    },
+    {
+      "category": "Front-End",
+      "list": [ "HTML", "SASS/SCSS", "REACT", "ANGULAR", "BACKBONE", "MARIONETTE", "REDUX", "GULP", "WEBPACK" ],
     },
     {
       "category": "Testing",
-      "list": [ "MOCHA", "CHAI", "SINON", "RSPEC", "CUCUMBER", "PHPUNIT" ],
+      "list": [ "MOCHA", "CHAI", "SINON", "RSPEC", "CUCUMBER", "PHPUNIT", "JEST" ],
     },
     {
       "category": "Tools and other",
-      "list": [ "HTML", "SASS/SCSS", "GULP", "WEBPACK", "COMPOSER", "MYSQL", "GIT", "APACHE", "NGINX", "JENKINS", "DOCKER", "PHOTOSHOP", "OS X", "LINUX" ],
+      "list": [ "GIT", "JENKINS", "DOCKER", "JIRA" ],
     },
   ],
 };
