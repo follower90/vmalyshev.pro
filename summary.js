@@ -3,14 +3,14 @@ var data =
   "about": "Web Developer, geek. Purposeful and highly motivated. Constantly learn new techniques and aware of the latest technologies. 5+ years professional experience of web applications development.",
   "summary": [
     "Back-end development experience. PHP strong knowledge, Ruby on Rails, Node.js",
-    "Front-end experience (React, Redux, Marionette UI, Backbone, with Docker, Webpack, etc.)",
+    "Front-end experience. JavaScript strong knowledge, React, Redux, Backbone, Marionette, Angular, etc.",
     "Solid websites development experience (on-line shops, dating, corporate, advertising sites)",
     "Data import and export, REST API, workers, parsers, synchronizing between different project units",
     "Architecture design, database design, programming, refactoring, unit testing, code review",
     "Collaboration with PO/PM, TL, development team, QA, designers, SEO specialists and customers",
-    "Agile development process experience, SCRUM, teamwork experience. Remote work experience",
-    "Documentation, requirements analyzing, technical specifications",
-    "Product maintenance and support, continuous integration",
+    "Agile development process experience, kanban, SCRUM, teamwork experience, remote work experience",
+    "Documentation, requirements analyzing, technical specifications, estimation",
+    "Product maintenance and support, continuous integration and delivery",
     "System administration (Linux, Mac OS, Windows)",
   ],
   "jobs": [
@@ -62,7 +62,7 @@ var data =
     },
     {
       "category": "Tools and other",
-      "list": [ "GIT", "JENKINS", "DOCKER", "JIRA" ],
+      "list": [ "GIT", "JENKINS", "DOCKER", "JIRA", "KUBERNETES" ],
     },
   ],
 };
